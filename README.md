@@ -4,4 +4,4 @@
     
 - 🌱 As of now, I've only dabbled in a small range of programming languages: Javascript alongside HTML&CSS, C++, & C#. I also hope to soon find time to figure out the basics of SQL.
     
-- 📫 Please, shoot me an email devinbain123456789@gmail.com
+- 📫 Shoot me an email devinbain123456789@gmail.com
